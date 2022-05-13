@@ -15,7 +15,6 @@
 }
 
 
-
 .hero-container {
   height: 100%;
   width: 100%;
@@ -178,6 +177,7 @@
   display: flex;
 }
 
+
 @media (min-width: 768px) {
   .hero-img-1 {
     display: block;
@@ -188,6 +188,7 @@
     display: none;
   }
 }
+
 
 @media (max-width: 768px) {
   .section {
