@@ -192,7 +192,7 @@
 
 @media (max-width: 768px) {
   .section {
-    margin-left: 5%;
+    margin-left: -1%;
     margin-right: 0%;
   }
   .col-mobile {
@@ -202,7 +202,7 @@
     left:-25%;
   }
   .thryv-logo {
-    margin-left: 3%;
+    left: 6%;
   }
   .hero-img-2 {
     display: block;
@@ -219,10 +219,6 @@
   .action-msg-mobile {
     margin-bottom: 9%;
   }
-  .learn-more-mobile {
-    margin-left: 5%;
-    margin-right: 0%;
-  }
   .modal-body-text {
     font-weight: 500;
   }
@@ -234,7 +230,7 @@
     text-align: center;
   }
   #svg-rectangle {
-    width: 93%;
+    width: 90%;
     display: grid;
     margin: 12% 0%;
   }
